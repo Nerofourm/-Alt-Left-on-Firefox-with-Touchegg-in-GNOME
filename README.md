@@ -9,6 +9,7 @@ Ensure that you have installed the following libraries:
 
 Please note that this setup may only function properly in the GNOME environment, as it relies on the x11 gestures specific to GNOME, primarily for disabling desktop swipe functionality.
 
+The touchegg.conf is in .config/touchegg/, only you need replace or add the lines below.
 
 Keep in mind that you have the option to customize the browser on which this feature will take effect within the <command> tag and the <application> tag, specifically by adjusting the name, currently set as "Mozilla Firefox". This flexibility allows you to tailor the functionality to work seamlessly with your preferred browser. 
 
